@@ -1,0 +1,34 @@
+{
+  "teams": {
+    "id": "Tip for Tip",
+    "slug": "tipfortip-teams",
+    "additional_paths": ["", "/extra"],
+    "children": [
+      {
+        "id": "Frontend",
+        "slug": "frontend"
+      },
+      {
+        "id": "Backend",
+        "slug": "backend"
+      },
+      {
+        "id": "Design",
+        "slug": "design"
+      },
+      {
+        "id": "Marketing",
+        "slug": "marketing"
+      },
+      {
+        "id": "Testing",
+        "slug": "testing"
+      },
+      {
+        "id": "Recruiting",
+        "slug": "recruiting"
+      }
+    ]
+  },
+  "lists_order": ["Potential", "Trial contributor", "Setup", "Contributor"]
+}
