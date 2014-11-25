@@ -5,6 +5,10 @@
     "additional_paths": ["", "/extra"],
     "children": [
       {
+        "id": "Visual designer",
+        "slug": "visual-designer"
+      },
+      {
         "id": "Frontend",
         "slug": "frontend"
       },
