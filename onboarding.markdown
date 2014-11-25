@@ -1,6 +1,16 @@
 # Inbox
 
-## Prerequisites
+## <candidate name here>
+
+### Prerequisites: 
+
+- Resume
+- LinkedIn profile
+- Bio
+- Work samples
+- Salary requirements
+
+## Template
 
 ### Prerequisites: 
 
