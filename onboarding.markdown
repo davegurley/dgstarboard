@@ -1,7 +1,5 @@
 # Inbox
 
-## *candidate name here*
-
 ## Template
 
 ### Prerequisites: 
