@@ -34,5 +34,9 @@
       }
     ]
   },
-  "lists_order": ["Potential", "Trial contributor", "Setup", "Contributor"]
+  "lists_order": ["Inbox", "Submittal", "Round 1 interview", "Collect feedback", "Round 2 interview", "Approval to hire", "Offer out"]
 }
+
+
+
+
