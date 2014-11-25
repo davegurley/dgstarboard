@@ -1,14 +1,6 @@
 # Inbox
 
-## <candidate name here>
-
-### Prerequisites: 
-
-- Resume
-- LinkedIn profile
-- Bio
-- Work samples
-- Salary requirements
+## *candidate name here*
 
 ## Template
 
@@ -19,6 +11,24 @@
 - Bio
 - Work samples
 - Salary requirements
+
+### Feedback
+
+Dear hiring manager, should we have this candidate meet more folks?
+
+- Feedback has been given
+
+### Schedule round 1
+
+- Round 1 has been scheduled
+
+### Feedback
+
+### Schedule round 2
+
+- Round 1 has been scheduled
+
+
 
 # Submittal
 
