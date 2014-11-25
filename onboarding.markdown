@@ -10,9 +10,7 @@
 - Work samples
 - Salary requirements
 
-### Feedback
-
-Dear hiring manager, should we have this candidate meet more folks?
+### Feedback - Dear hiring manager, should we have this candidate meet more folks?
 
 - Feedback has been given
 
